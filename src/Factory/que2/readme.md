@@ -1,0 +1,2 @@
+A ShapeFactory uses Simple Factory to create Circle, Rectangle, and Triangle objects. A new requirement says each shape must be created with color as a parameter (e.g., red circle, blue rectangle).
+How would you modify the factory to support this? What limitation of Simple Factory does this expose as more variants are added?

@@ -1,0 +1,2 @@
+You're building a notification system. There are three types: EmailNotification, SMSNotification, and PushNotification. All implement a Notification interface with a send() method.
+Write a NotificationFactory class with a static method createNotification(String type) that returns the correct object. What happens if an invalid type is passed?
