@@ -1,0 +1,2 @@
+You're designing a logistics app. There's an abstract Logistics class with a factory method createTransport(). RoadLogistics returns a Truck and SeaLogistics returns a Ship. Both Truck and Ship implement Transport with a deliver() method.
+Draw the class hierarchy and explain why the Logistics class doesn't need to know which Transport is created.
