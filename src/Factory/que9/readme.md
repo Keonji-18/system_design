@@ -1,0 +1,2 @@
+You are designing a cross-platform database layer using Abstract Factory. The factory creates three products: Connection, QueryBuilder, and TransactionManager — for two platforms: PostgreSQL and SQLite.
+A senior dev suggests replacing Abstract Factory with a Dependency Injection container instead. Make the case for keeping Abstract Factory and the case against it. Then describe a scenario where combining both approaches gives the best result.
