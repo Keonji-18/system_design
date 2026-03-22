@@ -1,6 +1,6 @@
-package Factory;
+package Factory.que12;
 
-public class JSONParse implements Parse{
+public class JSONParse implements Parse {
 
     @Override
     public void parse() {

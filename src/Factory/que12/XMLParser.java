@@ -1,6 +1,6 @@
-package Factory;
+package Factory.que12;
 
-public class XMLParser extends DocumentParser{
+public class XMLParser extends DocumentParser {
 // No use
 //    @Override
 //    public Parse createParser() {

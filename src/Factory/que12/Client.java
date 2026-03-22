@@ -1,4 +1,4 @@
-package Factory;
+package Factory.que12;
 
 public class Client{
     public static void main(String[] args){

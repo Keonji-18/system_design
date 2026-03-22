@@ -1,6 +1,6 @@
-package Factory;
+package Factory.que12;
 
-public class JSONParser extends DocumentParser{
+public class JSONParser extends DocumentParser {
 //
 //    public JSONParser(){
 //        this.

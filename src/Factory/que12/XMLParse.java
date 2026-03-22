@@ -1,6 +1,6 @@
-package Factory;
+package Factory.que12;
 
-public class XMLParse implements Parse{
+public class XMLParse implements Parse {
 
     @Override
     public void parse(){
