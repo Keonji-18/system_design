@@ -9,11 +9,11 @@ public class Application {
     Application(PaymentEcosystem ecosystem){
         this.processor = ecosystem.createPaymentProcessor();
         this.invoice = ecosystem.createInvoice();
-        this.refundHandler = ecosystem.createRefundHandler();
+        this.refundHandler = ecosystem.createRefundHandler(); // modified
     }
     public void buildEcosystem(){
         processor.processPayment();
         invoice.getInvoice();
-        refundHandler.handelRefund();
+        refundHandler.handelRefund();   // modified
     }
 }

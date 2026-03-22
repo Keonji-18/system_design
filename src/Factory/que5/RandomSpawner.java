@@ -1,7 +1,5 @@
 package Factory.que5;
 
-
-
 public class RandomSpawner {
 
     public static Enemy spawnRandomEnemy(){

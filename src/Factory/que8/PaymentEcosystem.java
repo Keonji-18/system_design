@@ -4,5 +4,5 @@ public interface PaymentEcosystem {
 
     public PaymentProcessor createPaymentProcessor();
     public Invoice createInvoice();
-    public RefundHandler createRefundHandler();
+    public RefundHandler createRefundHandler(); // modified
 }

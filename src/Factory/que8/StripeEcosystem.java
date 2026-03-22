@@ -12,7 +12,7 @@ public class StripeEcosystem extends StripeRefundHandler implements PaymentEcosy
         return new StripeInvoice();
     }
 
-    @Override
+    @Override // modified
     public RefundHandler createRefundHandler() {
         return new StripeRefundHandler();
     }
